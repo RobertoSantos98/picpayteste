@@ -1,5 +1,8 @@
 package com.picpayteste.Domain.User;
 
-public class UserType {
+public enum UserType {
 
+    COMMON,
+
+    MERCHANT
 }
